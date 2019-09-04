@@ -1,0 +1,26 @@
+{
+  "name": "next-boilerplate-class",
+  "description": "next-boilerplate-class-description",
+  "main": "dist/next-boilerplate-class.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-boilerplate-class",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
