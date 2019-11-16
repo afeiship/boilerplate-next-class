@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm install -S afeiship/next-boilerplate-class --registry=https://registry.npm.taobao.org
+npm install -S afeiship/next-boilerplate-class
 ```
 
 ## apis
@@ -17,6 +17,3 @@ import NxBoilerplateClass from 'next-boilerplate-class';
 
 // code goes here:
 ```
-
-## resources
-- https://github.com/afeiship
