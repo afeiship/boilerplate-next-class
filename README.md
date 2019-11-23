@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm install -S afeiship/next-boilerplate-class
+npm install -S @feizheng/next-boilerplate-class
 ```
 
 ## apis
