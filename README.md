@@ -13,7 +13,7 @@ npm install -S @feizheng/next-boilerplate-class
 
 ## usage
 ```js
-import NxBoilerplateClass from 'next-boilerplate-class';
+import NxBoilerplateClass from '@feizheng/next-boilerplate-class';
 
 // code goes here:
 ```
