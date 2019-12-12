@@ -1,4 +1,4 @@
-(function() {
+(function () {
   'use strict';
 
   const gulp = require('gulp');
@@ -22,7 +22,7 @@
     'js'
   );
 
-  gulp.task('scripts', function() {
+  gulp.task('scripts', function () {
     return gulp
       .src('src/*.js')
       .pipe($.sourcemaps.init())
