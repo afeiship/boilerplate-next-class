@@ -3,7 +3,7 @@
  * description: next-boilerplate-class-description
  * url: https://github.com/afeiship/next-boilerplate-class
  * version: 1.0.0
- * date: 2019-12-16T15:50:22.479Z
+ * date: 2019-12-17 00:00:00
  * license: MIT
  */
 
