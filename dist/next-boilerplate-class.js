@@ -1,25 +1,21 @@
 /*!
  * name: @feizheng/next-boilerplate-class
+ * description: next-boilerplate-class-description
  * url: https://github.com/afeiship/next-boilerplate-class
  * version: 1.0.0
- * date: 2019-12-12T13:01:55.489Z
+ * date: 2019-12-16T15:50:22.479Z
  * license: MIT
  */
 
-(function () {
-
+(function() {
   var global = global || this || window || Function('return this')();
   var nx = global.nx || require('@feizheng/next-js-core2');
 
-  var NxBoilerplateClass = nx.declare('nx.BoilerplateClass', {
-
-  });
-
+  var NxBoilerplateClass = nx.declare('nx.BoilerplateClass', {});
 
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = NxBoilerplateClass;
   }
-
-}());
+})();
 
 //# sourceMappingURL=next-boilerplate-class.js.map
