@@ -28,10 +28,10 @@
     "gulp-uglify": "^3.0.2",
     "jest": "^25.1.0",
     "uglify-save-license": "^0.4.1",
-    "yargs": "^15.1.0"
+    "yargs": "^15.3.1"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.4.2"
+    "@feizheng/next-js-core2": "^2.4.3"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
