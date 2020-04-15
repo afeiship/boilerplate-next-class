@@ -27,6 +27,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "jest": "^25.1.0",
+    "uglify-js": "3.7.2",
     "uglify-save-license": "^0.4.1",
     "yargs": "^15.3.1"
   },
