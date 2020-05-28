@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-boilerplate-class
+npm install -S @boilerplate-scope/next-boilerplate-class
 ```
 
 ## apis
@@ -13,7 +13,7 @@ npm install -S @feizheng/next-boilerplate-class
 
 ## usage
 ```js
-import NxBoilerplateClass from '@feizheng/next-boilerplate-class';
+import NxBoilerplateClass from '@boilerplate-scope/next-boilerplate-class';
 
 // code goes here:
 ```
