@@ -12,6 +12,7 @@
       .src('src/*.js')
       .pipe($.feizheng.pkgHeader())
       .pipe(gulp.dest('dist'))
+      .pipe($.size({ title: '[ default size ]:' }))
       .pipe($.uglify({ output: { comments: saveLicense } }))
       .pipe($.rename({ extname: '.min.js' }))
       .pipe(gulp.dest('dist'))
