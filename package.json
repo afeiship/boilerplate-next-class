@@ -15,6 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "@feizheng/gulp-pkg-header": "^1.0.4",
+    "@feizheng/next-js-core2": "^2.6.0",
     "@feizheng/rake-git": "^1.2.1",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
@@ -29,9 +30,6 @@
     "uglify-js": "3.10.0",
     "uglify-save-license": "^0.4.1",
     "yargs": "^15.4.0"
-  },
-  "dependencies": {
-    "@feizheng/next-js-core2": "^2.6.0"
   },
   "publishConfig": {
     "registry": "<%= registry.publish %>"
