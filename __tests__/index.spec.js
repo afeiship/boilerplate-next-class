@@ -1,5 +1,5 @@
 (function() {
-  var nx = require('@feizheng/next-js-core2');
+  var nx = require('@jswork/next');
   var NxBoilerplateClass = require('../src/next-boilerplate-class');
 
   describe('NxBoilerplateClass.methods', function() {

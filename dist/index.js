@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-boilerplate-class
+ * name: @boilerplate-scope/next-boilerplate-class
  * description: next-boilerplate-class-description
- * url: https://github.com/afeiship/next-boilerplate-class
+ * homepage: https://github.com/afeiship/next-boilerplate-class
  * version: 1.0.0
- * date: 2020-03-28 12:58:30
+ * date: 2020-11-12T13:45:40.411Z
  * license: MIT
  */
 
 (function() {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   var NxBoilerplateClass = nx.declare('nx.BoilerplateClass', {});
 
@@ -17,5 +17,3 @@
     module.exports = NxBoilerplateClass;
   }
 })();
-
-//# sourceMappingURL=next-boilerplate-class.js.map
