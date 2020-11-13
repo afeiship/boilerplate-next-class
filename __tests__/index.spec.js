@@ -1,6 +1,6 @@
 (function() {
   var nx = require('@jswork/next');
-  var NxBoilerplateClass = require('../src/next-boilerplate-class');
+  var NxBoilerplateClass = require('../src/index');
 
   describe('NxBoilerplateClass.methods', function() {
     test('init', function() {
