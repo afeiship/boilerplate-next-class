@@ -1,8 +1,8 @@
 {
-  "name": "@boilerplate-scope/next-boilerplate-class",
+  "name": "@boilerplate-scope/boilerplate-next-class",
   "version": "1.0.0",
-  "description": "next-boilerplate-class-description",
-  "homepage": "https://github.com/afeiship/next-boilerplate-class",
+  "description": "boilerplate-next-class-description",
+  "homepage": "https://github.com/afeiship/boilerplate-next-class",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
