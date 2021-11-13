@@ -38,9 +38,9 @@
     "access": "<%= registry.access %>",
     "registry": "<%= registry.publish %>"
   },
-  "boilerplate": "@boilerplate-scope/next-boilerplate-class",
+  "boilerplate": "boilerplate-next-class",
   "repository": {
     "type": "git",
-    "url": "https://github.com/afeiship/@boilerplate-scope/next-boilerplate-class"
+    "url": "https://github.com/afeiship/boilerplate-next-class.git"
   }
 }
